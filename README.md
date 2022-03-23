@@ -23,18 +23,18 @@ If you want to contact me, please send me an email and visit my blogs.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)&nbsp;
-<!-- ![React](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp; -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<!-- ![React](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp; -->
 <!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp; -->
 <!-- ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br/>
 
 
 ## 💻 &nbsp;GitHub Analytics
 ![jskami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jskami&show_icons=true&theme=algolia)
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjskami%2Fhit-counter&count_bg=%23EE8383&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjskami%2Fhit-counter&count_bg=%23EE8383&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 🤝🏻 &nbsp;Contact
