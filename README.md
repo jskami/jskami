@@ -34,7 +34,7 @@ If you want to contact me, please send me an email and visit my blogs.
 ## 💻 &nbsp;GitHub Analytics
 ![jskami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jskami&show_icons=true&theme=algolia)
 <br/>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjskami%2Fhit-counter&count_bg=%23EE8383&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjskami%2Fhit-counter&count_bg=%23EF7E7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 🤝🏻 &nbsp;Contact
