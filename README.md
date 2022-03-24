@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=Creative_Thinking🌠&animation=blink&fontSize=50&fontAlign=75&fontAlignY=40)
   
 
-👋Hi!
+Hi!
 
 I am Jongsu Park who is interested in Web development which is using Java programming language from Republic of Korea.
 
@@ -39,6 +39,7 @@ If you want to contact me, please send me an email and visit my blogs.
 
 ## 🤝🏻 &nbsp;Contact
 <a href="mailto:jskami01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-FF4747?style=flat&logoColor=white)](https://jskami.tistory.com/)
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)](https://sowon-dev.github.io/) -->
 
 
