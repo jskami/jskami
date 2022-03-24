@@ -10,6 +10,7 @@ If you want to contact me, please send me an email and visit my blogs.
 ## 👋 &nbsp;열정가득한 초보 개발자 Jongsu 입니다 ☺️
 - CleanCode를 습관화 하고있습니다.
 - 기능 구현시 필요한 개념은 기록하고 반복하는 습관
+- 2022.03.25 1일 1커밋 1블로그 시작 
 <!-- - 2번의 삽질은 없다. 똑같은 문제로 헤매지 않도록 기록을 통해 경험 가득한 저만의 도서관을 만들고 있습니다. →  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)](https://sowon-dev.github.io/) -->
 - 🌱 Current Interest : Spring Framework, Java<br/>
 - 🔭 I am currently preparing for a job while studying.<br/>
